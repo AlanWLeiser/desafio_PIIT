@@ -63,6 +63,8 @@ Você deve basear o seu desenvolvimento na seguinte estrutura de dados. (Dica: v
 ## Entregáveis e Diferenciais de Mercado
 ### Obrigatório:
 
+- Entrega até 10/03/2026
+ 
 - O código deve ser entregue em um repositório público no GitHub.
 
 - O README.md deve conter o passo a passo exato de como rodar o seu projeto localmente (ex: npm install, npm run dev).
